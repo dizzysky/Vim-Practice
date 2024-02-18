@@ -1,0 +1,2 @@
+This is a new text. This is me using Vim for the first time. Hello, Vim.
+
