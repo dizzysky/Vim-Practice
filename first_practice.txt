@@ -1,7 +1,3 @@
-This is new text that I didn't have to press 'i' to insert. This is appended text.
-This is new text that I didn't have to press 'i' to insert. This is appended text.
-This is new text that I didn't have to press 'i' to insert. This is appended text.
-
 
 system.out.println(This is a printed line);
-
+Svelte start
